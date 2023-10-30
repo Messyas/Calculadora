@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="marrom">#D2691E</color>
+
+    <color name="marrom_claro">	#D2B48C</color>
+    <color name="marrom_cor_de_pele">#DEB887</color>
+    <color name="marrom_escuro">#8B4513</color>
+    <color name="kingcrimson">#DC143C</color>
+    <color name="fundocolor">#A0522D</color>
+
+
+</resources>
