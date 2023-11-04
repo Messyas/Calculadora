@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="descricao_botao_apagar">Botão para apagar</string>
+    <string name="ResultadoConta">Botao do valor de SharedPreferences</string>
+    <string name="Expressao_Invalida">Expressão inválida</string>
+    <string name="Erro_na_expressao">Erro na expressão</string>
+
 </resources>

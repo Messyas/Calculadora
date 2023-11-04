@@ -1,9 +1,41 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.CalculadoraAula" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-    </style>
 
-    <style name="Theme.CalculadoraAula" parent="Base.Theme.CalculadoraAula" />
-</resources>
+        <style name="Theme.Calculadora" parent="Base.Theme.Calculadora" />
+
+        <style name="Base.Theme.Calculadora" parent="Theme.Material3.DayNight.NoActionBar">
+            <item name="android:statusBarColor">@color/BrancoBar</item>
+        </style>
+
+        <!-- Light Theme -->
+        <style name="Background">
+            <item name="android:background">@color/branco</item>
+        </style>
+
+        <style name="StringNumero">
+            <item name="android:textColor">@color/pretoNumero</item>
+        </style>
+
+        <style name="ButtonCinzaCiano" parent="Widget.AppCompat.Button">
+            <item name="android:background">@drawable/botao_redondo</item>
+            <item name="android:textColor">@color/cianoString</item>
+        </style>
+
+        <style name="ButtonCinzaRosa" parent="Widget.AppCompat.Button">
+            <item name="android:background">@drawable/botao_redondo</item>
+            <item name="android:textColor">@color/RosaString</item>
+        </style>
+
+        <style name="ButtonCinzaPreto" parent="Widget.AppCompat.Button">
+            <item name="android:background">@drawable/botao_redondo</item>
+            <item name="android:textColor">@color/pretoNumero</item>
+        </style>
+
+        <style name="BottonLixeira" parent="Widget.AppCompat.Button">
+            <item name="android:background">@drawable/botao_redondo</item>
+            <item name="android:tint">@color/RosaString</item>
+            <item name="android:src">@drawable/ic_delete_24</item>
+
+        </style>
+
+
+    </resources>

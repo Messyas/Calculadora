@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 
-    <color name="marrom">#D2691E</color>
+    <color name="cianoString">#26eccc</color>
+    <color name="RosaString">#f37575</color>
 
-    <color name="marrom_claro">	#D2B48C</color>
-    <color name="marrom_cor_de_pele">#DEB887</color>
-    <color name="marrom_escuro">#8B4513</color>
-    <color name="kingcrimson">#DC143C</color>
-    <color name="fundocolor">#A0522D</color>
+    <!--LightTheme Colors/ tema claro -->
 
+    <color name="branco">#FFFFFFFF</color>
+    <color name="cinzaClarofora">#f9f9f9</color>
+    <color name="cinzaClaroBotao">#f7f7f7</color>
+    <color name="BrancoBar">#D2D2D2</color>
+    <color name="pretoNumero">#2a2e37</color>
+
+    <!-- DarkTheme Colors/ tema escuro  -->
+
+    <color name="PretoBar">#191A1F</color>
+    <color name="pretoFundo">#22252d</color>
+    <color name="pretoCapa">#292d36</color>
+    <color name="brancoNumero">#fefefe</color>
 
 </resources>
